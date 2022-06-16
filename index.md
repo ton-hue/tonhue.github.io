@@ -1,12 +1,12 @@
-## Welcome to Tonio Thurman's E-portfolio
+# Welcome to Tonio Thurman's E-portfolio
 
 This Website Contains Coding Enhancements to showcase skills in specific categories in Computer Science. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## **Skill # 1 Software Design & Engineering** 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This section contains the artifact and enhancement. The artifact is a creation made in visual studios using the language C++. I created a moving box utilizing texture and phong lighting and wanted to impliment the same idea using the language python in visual studios. The enhancement is showcasing my engineering skill of converting languages. 
 
 ```markdown
 Syntax highlighted code block
