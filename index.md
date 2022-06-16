@@ -6,7 +6,7 @@ This Website Contains Coding Enhancements to showcase skills in specific categor
 
 
 
-## **Skill # 1 Software Design & Engineering** 
+## **Skill # 1 - Software Design & Engineering** 
 
 <img src="images\safar-safarov-koOdUvfGr4c-unsplash.jpg">
 
@@ -17,7 +17,7 @@ This section contains the artifact and enhancement. The artifact is a creation m
 
 
 ```markdown
-Syntax highlighted code block
+- Software Design & Engineering Narrative -
 
 # Tonio Thurman
 ## Header 2
@@ -39,10 +39,25 @@ Syntax highlighted code block
 
 
 
-## **Skill # 2 Algorithms & Data Structures**
+## **Skill # 2 - Algorithms & Data Structures**
 
 <img src="images\alpridephoto-nuz3rK5iiKg-unsplash.jpg">
 
+```markdown
+- Algorithms & Data Structures Narrative -
+
+# Tonio Thurman
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+```
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ton-hue/tonhue.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
@@ -51,6 +66,23 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
-## **Skill # 3 Databases**
+## **Skill # 3 - Databases**
 
 <img src="images\luke-chesser-JKUTrJ4vK00-unsplash.jpg">
+
+
+```markdown
+- Databases Narrative -
+
+# Tonio Thurman
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+```
