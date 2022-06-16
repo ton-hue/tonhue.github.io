@@ -1,4 +1,4 @@
-## Welcome to Tonio Thurman Eportfolio
+## Welcome to Tonio Thurman's E-portfolio
 
 This Website Contains Coding Enhancements to showcase skills in specific categories in Computer Science. 
 
