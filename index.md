@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Tonio Thurman Eportfolio
 
-You can use the [editor on GitHub](https://github.com/ton-hue/tonhue.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This Website Contains Coding Enhancements to showcase skills in specific categories in Computer Science. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
