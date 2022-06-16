@@ -8,7 +8,6 @@ This Website Contains Coding Enhancements to showcase skills in specific categor
 
 ## **Skill # 1 Software Design & Engineering** 
 
-<<<<<<< HEAD
 <img src="images\safar-safarov-koOdUvfGr4c-unsplash.jpg">
 
 
@@ -34,14 +33,15 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-<<<<<<< HEAD
+
+
+
+
+
 
 ## **Skill # 2 Algorithms & Data Structures**
 
-=======
-## **Skill # 2 Algorithms & Data Structures**
->>>>>>> 272ad2166a68f7a31010506637e78ca602f19005
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+<img src="images\alpridephoto-nuz3rK5iiKg-unsplash.jpg">
 
 ### Jekyll Themes
 
@@ -52,3 +52,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 ## **Skill # 3 Databases**
+
+<img src="images\luke-chesser-JKUTrJ4vK00-unsplash.jpg">
