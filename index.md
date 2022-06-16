@@ -11,9 +11,17 @@ This Website Contains Coding Enhancements to showcase skills in specific categor
 <img src="images\safar-safarov-koOdUvfGr4c-unsplash.jpg">
 
 
-This section contains the artifact and enhancement. The artifact is a creation made in visual studios using the language C++. I created a moving box utilizing texture and phong lighting and wanted to impliment the same idea using the language python in visual studios. The enhancement is showcasing my engineering skill of converting languages.🖥️
-=======
+
 This section contains the artifact and enhancement. The artifact is a creation made in visual studios using the language C++. I created a moving box utilizing texture and phong lighting and wanted to impliment the same idea using the language python in visual studios. The enhancement is showcasing my engineering skill of converting languages. 🖥️
+
+### Original Files
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ton-hue/tonhue.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Remove Algorithm Enhancement
+
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
 
 
 ```markdown
@@ -43,6 +51,15 @@ This section contains the artifact and enhancement. The artifact is a creation m
 
 <img src="images\alpridephoto-nuz3rK5iiKg-unsplash.jpg">
 
+### Original Files
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ton-hue/tonhue.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Remove Algorithm Enhancement
+
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
 ```markdown
 - Algorithms & Data Structures Narrative -
 
@@ -58,18 +75,19 @@ This section contains the artifact and enhancement. The artifact is a creation m
 
 **Bold** and _Italic_ and `Code` text
 ```
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ton-hue/tonhue.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 ## **Skill # 3 - Databases**
 
 <img src="images\luke-chesser-JKUTrJ4vK00-unsplash.jpg">
 
+### Original Files
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ton-hue/tonhue.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Remove Algorithm Enhancement
+
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 ```markdown
 - Databases Narrative -
