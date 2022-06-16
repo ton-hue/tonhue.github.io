@@ -8,10 +8,14 @@ This Website Contains Coding Enhancements to showcase skills in specific categor
 
 ## **Skill # 1 Software Design & Engineering** 
 
+<<<<<<< HEAD
 <img src="images\safar-safarov-koOdUvfGr4c-unsplash.jpg">
 
 
 This section contains the artifact and enhancement. The artifact is a creation made in visual studios using the language C++. I created a moving box utilizing texture and phong lighting and wanted to impliment the same idea using the language python in visual studios. The enhancement is showcasing my engineering skill of converting languages.🖥️
+=======
+This section contains the artifact and enhancement. The artifact is a creation made in visual studios using the language C++. I created a moving box utilizing texture and phong lighting and wanted to impliment the same idea using the language python in visual studios. The enhancement is showcasing my engineering skill of converting languages. 🖥️
+
 
 ```markdown
 Syntax highlighted code block
@@ -30,9 +34,13 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+<<<<<<< HEAD
 
 ## **Skill # 2 Algorithms & Data Structures**
 
+=======
+## **Skill # 2 Algorithms & Data Structures**
+>>>>>>> 272ad2166a68f7a31010506637e78ca602f19005
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
