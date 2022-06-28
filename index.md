@@ -1,10 +1,8 @@
 # Welcome to Tonio Thurman's E-portfolio
 
-This website contains coding enhancements to showcase skills in specific categories in Computer Science. 
+This website contains projects complete to showcase data science skills.  
 
-# **Before we begin here is the Artifact Code Review of all three sections!**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7XQQKYpjono" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 -----
 
