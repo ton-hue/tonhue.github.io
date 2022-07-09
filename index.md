@@ -6,7 +6,7 @@ This website contains projects complete to showcase data science skills.
 
 -----
 
-## **Skill # 1 - Software Design & Engineering** 
+## **MonkeyPox Analysis Queries in SQL** 
 
 <img src="images\safar-safarov-koOdUvfGr4c-unsplash.jpg">
 
@@ -39,7 +39,7 @@ This section contains the artifact and enhancement. The artifact is a creation m
 
 
 
-## **Skill # 2 - Algorithms & Data Structures**
+## **Cleaning In SQL**
 
 <img src="images\alpridephoto-nuz3rK5iiKg-unsplash.jpg">
 The next section contains the artifact and enhancement as well. The artifact is a bidding program made in CS 260 containing multiple files, such ass the C++ file and CSV file to read the data. I created a removal algorithm for the program allowing the user to input the lowest bid to be removed. This section is showcasing my skill in algorithm enhancement. 🖥️
@@ -69,7 +69,7 @@ The next section contains the artifact and enhancement as well. The artifact is 
 
 
 
-## **Skill # 3 - Databases**
+## **Analysis Project in R**
 
 <img src="images\luke-chesser-JKUTrJ4vK00-unsplash.jpg">
 This section contains the artifact and enhancement. The artifact is a creation of queries and a dashboard utilizing python to display information from MongoDB. My enhancement showcased using C++ with MongoDB to display information from the same table. The enhancement is showcasing my skills in using C++ with MongoDB. 🖥️
