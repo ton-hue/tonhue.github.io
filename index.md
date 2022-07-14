@@ -11,7 +11,7 @@ This website contains projects and skills to showcase knowledge in data analysis
 
 * Certifications: 
 
-<img src="https://images.credly.com/size/220x220/images/4fc3fbcd-87af-4eb9-8f82-8898377c4a94/Badge.png" width="400" height="400" />
+<img src="https://images.credly.com/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" width="300" height="400" />
 
 -----
 
