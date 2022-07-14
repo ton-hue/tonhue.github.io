@@ -16,7 +16,6 @@ Using SQL I utilized a few queries that would show the most confirmed cases of m
 
 
 
-This section contains the artifact and enhancement. The artifact is a creation made with OpenGL using the language C++. I created a brown moving box utilizing texture and phong lighting and wanted to impliment the same idea using the language python with OpenGL. The enhancement is showcasing my engineering skill of converting languages. 🖥️
 
 ------
 
