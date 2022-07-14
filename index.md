@@ -1,4 +1,7 @@
-# Welcome to Tonio Thurman's E-portfolio
+#Hi I'm Tonio Thurman
+
+*Email: exp61964@outlook.com
+*LinkedIn:  
 
 This website contains projects complete to showcase data science skills.  
 
