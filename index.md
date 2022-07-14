@@ -19,21 +19,23 @@ From PortfolioProject1.dbo.Daily_Country_Wise_Confirmed_Cases
  --I used max float to ensure the maximum value of and the data would show the count in the correct way using desc.
 
 
-Select Country, MAX(cast(Confirmed_Cases as float)) as ConfirmedCaseCount
+<strong>Select Country, MAX(cast(Confirmed_Cases as float)) as ConfirmedCaseCount
 From PortfolioProject1.dbo.Monkey_Pox_Cases_Worldwide
 group by Country
-order by ConfirmedCaseCount desc
+order by ConfirmedCaseCount desc</strong>
 
 --Next I want to compare the confirmed cases with daily confirmed cases to analyze the growth in each country. Using a join query I will view data from the 2  monkeypox tables.
 
-Select * 
+<strong>Select * 
 From PortfolioProject1.dbo.Daily_Country_Wise_Confirmed_Cases Daily
 Join PortfolioProject1.dbo.Monkey_Pox_Cases_Worldwide World
-On Daily.Country = World.Country
+On Daily.Country = World.Country</strong>
 
 --Spain, Germany, England and US have the highest next day cases reported in a month time frame given. For example using Spain, on 6-29 there where 0 cases reported and on 6-30 there were 396 reported. 
 
 ```
+
+-----
 
 -----
 
@@ -44,24 +46,9 @@ On Daily.Country = World.Country
 
 ------
 
-### Original Files
-
-<a href="https://www.kaggle.com/datasets/deepcontractor/monkeypox-dataset-daily-updated)"> Here </a> is the path to the data in Kaggle. 
-
-### Conversion Enhancement Files
-
-<a href="https://github.com/ton-hue/tonhue.github.io/blob/6fbeb242d0b911318360e573646f9409982b84d1/Software%20Design%20&%20Engineering/openglconversionfinal.py"> Here </a> is the Changes made to the source code above, demonstrating my software engineering conversion skills. 
 
 ------
 
-## C++ to Python Skill Narrative
-
-```markdown
--The artifact I selected was my CS 330 Opengl Project where we created a scene in C++ visual studios. I believe I completed this project in the end of 2021. The item in the scene created was a moving box. Specifically, a brown moving box with open flaps with items at the surface. 
--I included this choice in my eportfolio as this option seemed the most interesting to learn how to convert c++ to python visually. Choosing this gave me a insight on what software engineers face when converting code to another language. Specifically the python libraries and box vertices showcased my adaptability. The research and execution was easily performed when setting up the python project and using the vertices/edges in python. 
--I  met the CS course objectives by implementing adaptability skills during my computing practices. The computer solutions that delivered value was researching libraries and python changes needed for this conversion to be successful.
--The process I chose was similar to the c++ project. I started with the basic shapes and began researching how to create that shape in python using pyopengl and vertices in python. Then I proceeded with the texture and image to add to the scene. I learned that pyopengl is quite similar to opengl for c++, I think the main difference is the edges pertaining to the vertices and the buffers. The buffers in C++ seem more difficult. 
-```
 
 
 
