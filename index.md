@@ -3,7 +3,7 @@
 * Email: exp61964@outlook.com
 * LinkedIn:  
 
-This website contains projects and skills to showcase data analysis/science skills.  
+This website contains projects and skills to showcase knowledge in data analysis/science.  
 
 
 
