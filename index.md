@@ -11,7 +11,7 @@ Using SQL I utilized a few queries that would show the most confirmed cases of m
 
 # Code
 
-https://github.com/tthurman-data/thurman.github.io/blob/3d8c03de4ec8ea414c69d49346ad9c416e91e124/MonkeyPoxAnalysis.sql
+<script src="https://gist.github.com/tthurman-data/f448e98ecaba26e3bd74d9f5e97db414.js"></script>
 
 
 
