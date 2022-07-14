@@ -4,6 +4,11 @@
 * LinkedIn:  
 
 This website contains projects and skills to showcase knowledge in data analysis/science.  
+-----
+** Languages & Tools: **
+
+
+** Certifications: **
 
 
 
