@@ -46,7 +46,7 @@ On Daily.Country = World.Country
 
 ### Original Files
 
-<a href="https://github.com/ton-hue/tonhue.github.io/blob/6fbeb242d0b911318360e573646f9409982b84d1/Software%20Design%20&%20Engineering/Original%20Artifact_CS%20330/Thurman-Tonio-Dec%2019,%202021%20814%20AM(3).cpp"> Here </a> is the path to the orginal artifact which is the C++ file of the project in github. 
+<a href="https://www.kaggle.com/datasets/deepcontractor/monkeypox-dataset-daily-updated)"> Here </a> is the path to the data in Kaggle. 
 
 ### Conversion Enhancement Files
 
