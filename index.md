@@ -11,7 +11,8 @@ This website contains projects and skills to showcase knowledge in data analysis
 
 * Certifications: 
 
-
+<img src="![image](https://user-images.githubusercontent.com/79831181/178939940-067cc04c-1435-4d0d-bd1d-8ffc802bef3c.png)
+" width="200" height="100" />
 
 -----
 
