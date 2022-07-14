@@ -11,7 +11,10 @@ Using SQL I utilized a few queries that would show the most confirmed cases of m
 
 # Code
 -----
-https://gist.github.com/tthurman-data/f448e98ecaba26e3bd74d9f5e97db414
+
+<script src="https://gist.github.com/tthurman-data/f448e98ecaba26e3bd74d9f5e97db414.js"></script>
+
+
 
 -----
 
