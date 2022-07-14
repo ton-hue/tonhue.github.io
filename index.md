@@ -6,6 +6,7 @@
 This website contains projects and skills to showcase knowledge in data analysis/science.  
 -----
 * Languages & Tools: 
+
 <img src="https://rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-Flat.png" width="200" height="100" /><img src="https://rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-Flat.png" width="200" height="100" />
 
 * Certifications: 
