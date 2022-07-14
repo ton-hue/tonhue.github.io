@@ -9,6 +9,9 @@ This website contains projects complete to showcase data science skills.
 ## **MonkeyPox SQL Queries & Tableau Image Creation** 
 Using SQL I utilized a few queries that would show the most confirmed cases of monkeypox by country and join two tables together for analysis. The data was downloaded from Kaggle containing on 3 tables of a small amount of data. I then copy and pasted the query outcomes from Microsoft SQL server into excel and imported into tableau public to create a visual. 
 
+# Code
+
+https://github.com/tthurman-data/thurman.github.io/blob/3d8c03de4ec8ea414c69d49346ad9c416e91e124/MonkeyPoxAnalysis.sql
 
 
 
