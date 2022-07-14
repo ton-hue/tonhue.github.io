@@ -1,4 +1,4 @@
-# Hi I'm Tonio Thurman
+# Hi :wave:, I'm Tonio Thurman
 
 * Email: exp61964@outlook.com
 * LinkedIn:  
