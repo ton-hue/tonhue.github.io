@@ -67,8 +67,10 @@ On Daily.Country = World.Country
 ## **Cleaning In SQL**
 
 <img src="images\alpridephoto-nuz3rK5iiKg-unsplash.jpg">
-The next section contains the artifact and enhancement as well. The artifact is a bidding program made in CS 260 containing multiple files, such ass the C++ file and CSV file to read the data. I created a removal algorithm for the program allowing the user to input the lowest bid to be removed. This section is showcasing my skill in algorithm enhancement. 🖥️
+The next section contains cleaning data in Microsoft SQL Server, below I have queries used to complete general data cleaning tasks with notes. The data set used is an example used for cleaning data, downloaded from github and imported into the SQL server. 
+```
 
+```
 ------
 
 ### Original Files
