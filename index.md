@@ -65,17 +65,56 @@ On Daily.Country = World.Country
 
 
 ## **Cleaning In SQL**
+-----
+In this section I wrote basic cleaning queries in Microsoft SQL Server using data called "Uber Pickups in New York City" from Kaggle.com. Below is the notated queries used. <a href="https://github.com/ton-hue/tonhue.github.io/tree/gh-pages/Database/Original%20Artifact_CS%20340"> Here </a> is the path to the downloaded Uber data from Kaggle. 
 
-<img src="images\alpridephoto-nuz3rK5iiKg-unsplash.jpg">
-The next section contains cleaning data in Microsoft SQL Server, below I have queries used to complete general data cleaning tasks with notes. The data set used is an example used for cleaning data, downloaded from github and imported into the SQL server. 
+-----
+<img src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2020/09/Data-Cleaner.png" width="600" height="500" />
+
 ```
+--Selecting all Uber data to examine what needs to be cleaned.
+
+Select *
+FROM [PortfolioProject1].[dbo].[uber-raw-data-janjune-15]
+
+-- I noticed a good amount of Affiliated base numbers are missing, the best option may be to use Hot Deck imputation. By choosing another trip that was similar in route to input
+-- in the blank Affiliated base number spaces could better the analysis instead of blank values. 
+
+Select *
+FROM [PortfolioProject1].[dbo].[uber-raw-data-janjune-15]
+Where Affiliated_base_num = ''
+
+--Since using hot deck imputation requires more analysis on the data, I will input null for now into the blank values to be updated after hot deck implementation. 
+
+update [PortfolioProject1].[dbo].[uber-raw-data-janjune-15] 
+set Affiliated_base_num = 'NULL'
+where Affiliated_base_num = ''
+
+Select *
+From [PortfolioProject1].[dbo].[uber-raw-data-janjune-15]
+
+--Next I noticed the uber data combined the date and time under Pickup_Date. So I want to create a query that will give the time a new column. 
+Select Pickup_date
+From [PortfolioProject1].[dbo].[uber-raw-data-janjune-15]
+
+Alter Table [PortfolioProject1].[dbo].[uber-raw-data-janjune-15]
+Add Pickup_Time Nvarchar(255);
+
+Update [PortfolioProject1].[dbo].[uber-raw-data-janjune-15]
+Set Pickup_Time = SUBSTRING(Pickup_Date, 12, charindex('12', Pickup_Date) +8) 
+
+--Lastly, I wanted to ensure there were no messy strings in the uber data. I wrote a trim query for all columns in the table. 
+
+Select trim(Dispatching_base_num), (Pickup_date), (Affiliated_base_num), (locationID), (Pickup_Time)
+From [PortfolioProject1].[dbo].[uber-raw-data-janjune-15]
+
 
 ```
 ------
 
 ### Original Files
 
-<a href="https://github.com/ton-hue/tonhue.github.io/tree/gh-pages/Algorithms/Original%20Artifact_CS%20260"> Here </a> is the path to the orginal artifact which is the original CS 260 files in github. 
+<a href="[https://github.com/ton-hue/tonhue.github.io/tree/gh-pages/Algorithms/Original%20Artifact_CS%20260](https://149695847.v2.pressablecdn.com/wp-content/uploads/2020/09/Data-Cleaner.png)"> Here </a> is the path to the orginal artifact which is the original CS 260 files in github. 
 
 ### Algorithm Enhancement File
 
