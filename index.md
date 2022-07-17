@@ -66,7 +66,7 @@ On Daily.Country = World.Country
 
 ## **Cleaning In SQL**
 -----
-In this section I wrote basic cleaning queries in Microsoft SQL Server using data called "Uber Pickups in New York City" from Kaggle.com. Below is the notated queries used. <a href="https://github.com/ton-hue/tonhue.github.io/tree/gh-pages/Database/Original%20Artifact_CS%20340"> Here </a> is the path to the downloaded Uber data from Kaggle. 
+In this section I wrote basic cleaning queries in Microsoft SQL Server using data called "Uber Pickups in New York City" from Kaggle.com. Below is the notated queries used. <a href="https://www.kaggle.com/datasets/fivethirtyeight/uber-pickups-in-new-york-city"> Here </a> is the path to the Uber data from Kaggle. 
 
 -----
 <img src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2020/09/Data-Cleaner.png" width="600" height="500" />
