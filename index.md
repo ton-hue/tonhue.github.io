@@ -45,7 +45,7 @@ On Daily.Country = World.Country
 ```
 
 -----
-
+## Monkey Pox Tableau Creation - Highest Cases Per Country 
 -----
 
 <div class='tableauPlaceholder' id='viz1657782122372' style='position: relative'><noscript><a href='#'><img alt='Confirmed Case Count by Country ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Mo&#47;MonkeyPoxExample&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='MonkeyPoxExample&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Mo&#47;MonkeyPoxExample&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                
@@ -66,7 +66,7 @@ On Daily.Country = World.Country
 
 ## **Cleaning In SQL**
 -----
-In this section I wrote basic cleaning queries in Microsoft SQL Server using data called "Uber Pickups in New York City" from Kaggle.com. Below is the notated queries used. <a href="https://www.kaggle.com/datasets/fivethirtyeight/uber-pickups-in-new-york-city"> Here </a> is the path to the Uber data from Kaggle. 
+In this section I wrote basic cleaning queries in Microsoft SQL Server using the "uber-raw-data-janjune-15" table from the data called "Uber Pickups in New York City" downloaded from Kaggle.com. Below is the notated queries used. <a href="https://www.kaggle.com/datasets/fivethirtyeight/uber-pickups-in-new-york-city"> Here </a> is the path to the Uber data from Kaggle. 
 
 -----
 <img src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2020/09/Data-Cleaner.png" width="600" height="500" />
