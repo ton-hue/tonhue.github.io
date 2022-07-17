@@ -16,7 +16,7 @@ This website contains projects and skills to showcase knowledge in data analysis
 -----
 
 ## **MonkeyPox SQL Queries & Tableau Image Creation** 
-Using SQL I created a few queries that would show the most confirmed cases of monkeypox by country and join two tables together for analysis. The data was downloaded from Kaggle containing 3 small tables of data. I then copy and pasted the query outcomes from Microsoft SQL server into excel and imported into tableau public to create a visual. 
+Using SQL I wrote a few queries that would show the most confirmed cases of monkeypox by country and join two tables together for daily case confirmation analysis. The data was downloaded from Kaggle.com titled "Monkeypox Dataset (Daily Updated)" containing 3 small tables of data. I then copied and pasted the query outcomes from Microsoft SQL Server into Excel and imported into Tableau public to create the visual below. 
 
 # Queries
 -----
