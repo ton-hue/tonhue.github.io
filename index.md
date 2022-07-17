@@ -1,10 +1,12 @@
-# Hi :wave:, I'm Tonio Thurman
+# Hi, I'm Tonio Thurman
 
 * Email: exp61964@outlook.com
 * LinkedIn:  
 
-This website contains projects and skills to showcase knowledge in data analysis/science.  
+This website contains projects and skills to showcase knowledge in data analysis/science. 
+
 -----
+
 * Languages & Tools: 
 
 <img src="https://rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-Flat.png" width="200" height="100" /><img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png" width="200" height="100" /><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png" width="200" height="100" /><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png" width="200" height="100" />
@@ -54,10 +56,6 @@ On Daily.Country = World.Country
 
 
 ------
-
-
-------
-
 
 
 
