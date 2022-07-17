@@ -112,27 +112,6 @@ From [PortfolioProject1].[dbo].[uber-raw-data-janjune-15]
 ```
 ------
 
-### Original Files
-
-<a href="[https://github.com/ton-hue/tonhue.github.io/tree/gh-pages/Algorithms/Original%20Artifact_CS%20260](https://149695847.v2.pressablecdn.com/wp-content/uploads/2020/09/Data-Cleaner.png)"> Here </a> is the path to the orginal artifact which is the original CS 260 files in github. 
-
-### Algorithm Enhancement File
-
-<a href="https://github.com/ton-hue/tonhue.github.io/blob/6fbeb242d0b911318360e573646f9409982b84d1/Algorithms/SourceandRemovalAlgorithmFinal.cpp"> Here </a> is the Changes made to the source code above, demonstrating my skills in algorithms with a removal enhancement. 
-
-------
-
-## Removal Algorithm Skill Narrative
-
-```
--The artifact is my cs 260 project where we created a bidding program using algorithms and data structures. I believe this project was made in 2020 which consisted of different milestones for completion. For the artifact details, I wanted to add a feature using a remove algorithm. This allows the seller/user to remove bids that were low or useless. After reviewing the bids the seller is then allowed to enter a bid then the loop would delete it from the program. 
--I wanted to include this choice into my eportfolio as this option shows skill by improving source code and knowledge in algorithms and data structures. I found this option interesting as it allowed me take a step back to review the source code and brainstorm on how to make the software better through algorithms. Specifically, the skills that stood out during this project were attention in detail and algorithms. The artifact was simply improved by making a new loop to remove old bids inputted by the user. This keeps the bidding up to date and current, removing the outdated numbers shown. 
--For this section of the eportfolio I  meet the objectives I planned to. My enhancement was a success and fits perfectly with the source code. I evaluated the source code allowing me to design the perfect algorithm for removing bids. By utilizing great algorithmic principles I was able to enhancement the source code providing a solution that could be used in the workforce. 
--The process for enhancement was first reviewing the source code from the cs 260 project. This allowed to refresh my memory on the project and find specifically what I wanted to improve as far as algorithms and data structures. I then compared the program to popular bidding programs (such as eBay etc.) to see what made the popular software successful. I then came to a conclusion that having different components for each part of the bidding and selling process was why they were successful. So I then came up with a plan to create a page for the program to remove bids on the seller end. I then performed a simple removal algorithm loop that would first display the bids, then allow the seller to enter the bids they want to delete then start the removal loop. The challenges I faced were in the beginning of the process, not knowing what to improve on the cs 260 project. I reviewed the code plenty of times but couldn’t think of anything. After comparing the program to a real business software, I was able to think of ways to expand the source code. 
-
-```
-
-
 
 
 ## **Analysis Project in R**
