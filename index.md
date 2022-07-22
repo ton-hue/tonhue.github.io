@@ -115,19 +115,10 @@ From [PortfolioProject1].[dbo].[uber-raw-data-janjune-15]
 <img src="images\luke-chesser-JKUTrJ4vK00-unsplash.jpg">
 This section contains the artifact and enhancement. The artifact is a creation of queries and a dashboard utilizing python to display information from MongoDB. My enhancement showcased using C++ with MongoDB to display information from the same table. The enhancement is showcasing my skills in using C++ with MongoDB. 🖥️
 
-### Original Files
 
-<a href="https://github.com/ton-hue/tonhue.github.io/tree/gh-pages/Database/Original%20Artifact_CS%20340"> Here </a> is the path to the orginal artifact which is the original CS 340 files in github. 
-
-### Conversion Enhancement Files
-
-<a href="https://github.com/ton-hue/tonhue.github.io/tree/gh-pages/Database"> Here </a> is the Changes made to the source code above, demonstrating my skills in MongoDB with C++. 
 
 ## MongoDB Conversion from Python to C++ Skill Narrative
 
 ```markdown
--The artifact is my CS 340 Project which used python to connect with mongodb using queries to display information. We utilized the virtual machine Jupiter notebook to write queries that would display information from the database in MongoDB. We then created a dashboard to display information from mongodb as well. This project was done early 2022 I believe and contained multiple files that referenced each other.
--I selected this enhancement to get a insight of how mongo databases is used with C++, using mongodb with python was fun to learn and genuinely interesting. I thought learning ways to enhance this artifact would provide knowledge I could use in the professional setting. The components that showcased my skills were applying C++ concepts already known to the project for the main.cpp file. Having knowledge of C++ and Databases allowed me to create the main file with ease. The artifact was improved by using C++ instead of python to connect to the database and write code/queries mirroing the artifact in python.
--I met the  CS objectives for this project. The main.cpp file met objectives as far as connecting to the mongodb and by choosing to use docker files. By utilizing docker files this kept the project organized for the queries to be ran with the C++. Showcasing decision making through organizational concepts allowed the project to not get overwhelming. This option also mitigate design flaws allowing the C++ MongoDB project to have quality.  The docker file took the place of the Jupiter notebook as far as running queries. The setup is different and uses  different commands in the text file.
--The process of enhancement started off straight forward, I used a cpp compiler to start the conversion. I reviewed the mongodb website to see which libraries needed to be included. Next I utilized the dbclientconnection from the website as well to connect to the port number. Then I created code to reference when connecting to the database using the try method in c++. And a catch statement for dbexception. After more research I learned I would use a docker file in the place of the Jupiter notebook to run commands/queries. I then used the docker file reference page to code the commands for c++. I learned some commands from the docker reference page and is still learning the process of the c++ query of the enhancement. -
+-The artifact 
 ```
