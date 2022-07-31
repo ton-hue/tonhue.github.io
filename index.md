@@ -17,8 +17,8 @@ This website contains projects and skills to showcase knowledge in data analysis
 
 -----
 
-## **MonkeyPox Data Tableau Image Creation - 1 Month Span** 
-Using SQL I wrote a few queries that would show the most confirmed cases of monkeypox by country and join two tables together for daily case confirmation analysis. The data was downloaded from Kaggle.com titled "Monkeypox Dataset (Daily Updated)" containing 3 small tables of data. I then copied and pasted the query outcomes from Microsoft SQL Server into Excel and imported into Tableau public to create the visual below. 
+## **MonkeyPox Data Tableau Image Creation - 2 Month Span** 
+Using SQL I wrote a few queries that would show the most confirmed cases of monkeypox by country and join two tables together for daily case confirmation analysis. The data was downloaded from Kaggle.com titled "Monkeypox Dataset (Daily Updated)" containing 3 small tables of data. I then copied and pasted the query outcomes from Microsoft SQL Server into Excel and imported into Tableau public to create the visual below. 5/6/2022 - 7/7/2022
 
 # Queries
 -----
