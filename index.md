@@ -122,3 +122,4 @@ This section contains the artifact and enhancement. The artifact is a creation o
 ```markdown
 -The artifact 
 ```
+<iframe width="700" height="743" frameborder="0" scrolling="no" src="https://snhu-my.sharepoint.com/personal/tonio_thurman_snhu_edu/_layouts/15/Doc.aspx?sourcedoc={99d6ddf5-ffff-4621-8703-0c1e7f9d1fde}&action=embedview&wdAllowInteractivity=False&Item=Chart%201&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True&edesNext=false&ejss=false"></iframe>
