@@ -17,7 +17,7 @@ This website contains projects and skills to showcase knowledge in data analysis
 
 -----
 
-## **MonkeyPox Data Tableau Image Creation - 2 Month Span** 
+## **MonkeyPox Data Tableau Image Creation - 5/6/2022 - 7/7/2022** 
 Using SQL I wrote a few queries that would show the most confirmed cases of monkeypox by country and join two tables together for daily case confirmation analysis. The data was downloaded from Kaggle.com titled "Monkeypox Dataset (Daily Updated)" containing 3 small tables of data. I then copied and pasted the query outcomes from Microsoft SQL Server into Excel and imported into Tableau public to create the visual below. 5/6/2022 - 7/7/2022
 
 # Queries
@@ -169,7 +169,7 @@ company to know which category to restock to ensure customer satisfaction for bo
 <a href="https://ibb.co/nLq1TnX"><img src="https://i.ibb.co/DRPMN8B/Rplotmenwom.png" alt="Rplotmenwom" border="0"></a>
 -----
 ## Most popular brands in Excel 
-I put the most popular brands in Excel for analysis and file can be found <a href="https://www.kaggle.com/datasets/fivethirtyeight/uber-pickups-in-new-york-city"> here. </a> 
+I put the most popular brands in Excel for analysis and file can be found <a href="https://github.com/tthurman-data/tthurman_data.github.io/blob/gh-pages/Book%202(2).xlsx"> here. </a> 
 -----
 ## Executive Summary of Fashion Trend Analysis
 <a href="https://ibb.co/6HNWNdX"><img src="https://i.ibb.co/QPXKX5D/find.png" alt="find" border="0"></a>
