@@ -47,7 +47,7 @@ On Daily.Country = World.Country
 ```
 
 -----
-## Monkey Pox Tableau Creation - Highest Cases Per Country 
+## Monkey Pox Tableau Creation - Highest Cases Per Country 5/6/2022 - 7/7/2022
 -----
 
 <div class='tableauPlaceholder' id='viz1658056140852' style='position: relative'><noscript><a href='#'><img alt='Confirmed Case Count by Country ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Mo&#47;MonkeyPoxExample&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='MonkeyPoxExample&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Mo&#47;MonkeyPoxExample&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>   <script type='text/javascript'>                    var divElement = document.getElementById('viz1658056140852');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement); </script>
@@ -168,8 +168,10 @@ company to know which category to restock to ensure customer satisfaction for bo
 
 <a href="https://ibb.co/nLq1TnX"><img src="https://i.ibb.co/DRPMN8B/Rplotmenwom.png" alt="Rplotmenwom" border="0"></a>
 -----
-## Most popular brands in Excel 
+## Most popular fashion brands Excel Chart
+
 I put the most popular brands in Excel for analysis and file can be found <a href="https://github.com/tthurman-data/tthurman_data.github.io/blob/gh-pages/Book%202(2).xlsx"> here. </a> 
+
 -----
 ## Executive Summary of Fashion Trend Analysis
 <a href="https://ibb.co/6HNWNdX"><img src="https://i.ibb.co/QPXKX5D/find.png" alt="find" border="0"></a>
