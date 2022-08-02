@@ -169,7 +169,7 @@ company to know which category to restock to ensure customer satisfaction for bo
 <a href="https://ibb.co/nLq1TnX"><img src="https://i.ibb.co/DRPMN8B/Rplotmenwom.png" alt="Rplotmenwom" border="0"></a>
 -----
 ## Most popular brands in Excel 
-<a href="https://ibb.co/0K3hHXc"><img src="https://i.ibb.co/hcvD3My/mbb.png" alt="mbb" border="0" width="1100" height="600"></a>
+I put the most popular brands in Excel for analysis and file can be found <a href="https://www.kaggle.com/datasets/fivethirtyeight/uber-pickups-in-new-york-city"> here. </a> 
 -----
 ## Executive Summary of Fashion Trend Analysis
 <a href="https://ibb.co/6HNWNdX"><img src="https://i.ibb.co/QPXKX5D/find.png" alt="find" border="0"></a>
