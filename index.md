@@ -112,15 +112,54 @@ From [PortfolioProject1].[dbo].[uber-raw-data-janjune-15]
 
 ## **Analysis Project in R**
 
-<img src="images\luke-chesser-JKUTrJ4vK00-unsplash.jpg">
-This section contains the artifact and enhancement. The artifact is a creation of queries and a dashboard utilizing python to display information from MongoDB. My enhancement showcased using C++ with MongoDB to display information from the same table. The enhancement is showcasing my skills in using C++ with MongoDB. 🖥️
+Using RStudio I analyzed a Fashion Trend Dataset from Kaggle Titled "Fashion Reliance Trends". The data contained one table that I analyzed to make
+sales suggestions for the company. I utilzed ggplot to create trends that I found while analyzing the data. My Orginal file can be found here🖥️
 
 
 
-## MongoDB Conversion from Python to C++ Skill Narrative
+## RStudio Code with Notation
 
 ```markdown
--The artifact 
+#I imported the fashion trends csv file and reviewing the head/columns. 
+head(Reliance.Trends.Fashion)
+
+#Next, I am installing janitor library to clean the 
+#data before doing my analysis.Using clean_names first, I wanted
+#to ensure column names are tidy.
+library(janitor)
+datasales1 <- clean_names(Reliance.Trends.Fashion)
+datasales1
+
+#Next, I used remove_empty from the janitor library.
+#There were no empty columns but wanted to ensure there
+#were no empty rows. 
+
+datasales2 <- remove_empty(datasales1, which = c("rows"), quiet = FALSE)
+
+#Since the dataset does not have dates/sale_id on items I will be skipping
+#using the distinct feature to remove any duplicated items. 
+
+#Using the hmisc library I was able to review frequency, highest, 
+#and lowest, of each column for my analysis. 
+library(Hmisc)
+describe(Reliance.Trends.Fashion)
+
+library(ggplot2)
+str(Reliance.Trends.Fashion)
+
+#ggplot would not show when tryingg to create bargraph so i reinstalled ggplot2
+install.packages("ggplot2", dependencies = TRUE)
+
+#Wanted to make a visual of most popular clothing category by gender using ggplot.
+ggplot(Reliance.Trends.Fashion, aes(x=Category, fill=Category_by_gender)) +
+  geom_bar(position = "dodge" )
+
+#Used tabyl to count brands to see which ones are the most popular
+library(janitor)
+tabyl(Reliance.Trends.Fashion, Brand)
+
+#Saved table under PopBrand 
+PopBrand <- tabyl(Reliance.Trends.Fashion, Brand)  
 ```
-<iframe width="700" height="743" frameborder="0" scrolling="no" src="https://snhu-my.sharepoint.com/personal/tonio_thurman_snhu_edu/_layouts/15/Doc.aspx?sourcedoc={99d6ddf5-ffff-4621-8703-0c1e7f9d1fde}&action=embedview&wdAllowInteractivity=False&Item=Chart%201&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True&edesNext=false&ejss=false">
-</iframe>
+-----
+<img src="https://ibb.co/nLq1TnX" width="900" height="800" />
