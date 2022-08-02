@@ -167,3 +167,9 @@ I created this to identify which clothing category was popular amoung each gende
 company to know which category to restock to ensure customer satisfaction for both males and females.
 
 <a href="https://ibb.co/nLq1TnX"><img src="https://i.ibb.co/DRPMN8B/Rplotmenwom.png" alt="Rplotmenwom" border="0"></a>
+-----
+## Most popular brands in Excel 
+<a href="https://ibb.co/0K3hHXc"><img src="https://i.ibb.co/hcvD3My/mbb.png" alt="mbb" border="0"></a>
+-----
+## Executive Summary of Fashion Trend Analysis
+<a href="https://ibb.co/6HNWNdX"><img src="https://i.ibb.co/QPXKX5D/find.png" alt="find" border="0"></a>
