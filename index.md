@@ -1,7 +1,7 @@
 # Hi, I'm Tonio Thurman
 
 * Email: exp61964@outlook.com
-* LinkedIn:  
+  
 
 This website contains projects and skills to showcase knowledge in data analysis/science. 
 
