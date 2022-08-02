@@ -162,4 +162,4 @@ tabyl(Reliance.Trends.Fashion, Brand)
 PopBrand <- tabyl(Reliance.Trends.Fashion, Brand)  
 ```
 -----
-<img src="https://ibb.co/nLq1TnX" width="900" height="800" />
+<a href="https://ibb.co/nLq1TnX"><img src="https://i.ibb.co/DRPMN8B/Rplotmenwom.png" alt="Rplotmenwom" border="0"></a>
