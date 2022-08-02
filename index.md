@@ -162,4 +162,8 @@ tabyl(Reliance.Trends.Fashion, Brand)
 PopBrand <- tabyl(Reliance.Trends.Fashion, Brand)  
 ```
 -----
+## RStudio Bar Chart | Gender & Clothing Category
+I created this to identify which clothing category was popular amoung each gender. This information can be used for the
+company to know which category to restock to ensure customer satisfaction for both males and females.
+
 <a href="https://ibb.co/nLq1TnX"><img src="https://i.ibb.co/DRPMN8B/Rplotmenwom.png" alt="Rplotmenwom" border="0"></a>
