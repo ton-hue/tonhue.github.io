@@ -3,7 +3,7 @@
 * Email: exp61964@outlook.com
   
 
-This website contains projects and skills to showcase knowledge in data analysis/science. 
+This website contains projects and skills to showcase knowledge in data subjects. 
 
 -----
 
