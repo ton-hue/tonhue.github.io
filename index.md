@@ -1,4 +1,4 @@
-# Hi, I'm Tonio Thurman
+# Hi, I'm Tony Thurman
 
 * Email: tonio.thurman@outlook.com
   
