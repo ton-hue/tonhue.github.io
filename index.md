@@ -7,11 +7,11 @@ This website contains projects/analysis in various software.
 
 -----
 
-* Languages & Tools: 
+* # Languages & Tools: 
 
-<img src="https://rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-Flat.png" width="200" height="100" /><img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png" width="200" height="100" /><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png" width="200" height="100" /><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png" width="200" height="100" /><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" width="100" height="100" /><img src="https://www.ultimateknowledge.com/v6CourseLogos/splunk.png" width="100" height="100" />
+<img src="https://rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-Flat.png" width="200" height="100" /><img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png" width="200" height="100" /><img src="https://ubunlog.com/wp-content/uploads/2019/03/Logo-de-Wireshark.png" width="200" height="100" /><img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Logo.png" width="200" height="100" /><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png" width="200" height="100" /><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png" width="200" height="100" /><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" width="100" height="100" /><img src="https://www.ultimateknowledge.com/v6CourseLogos/splunk.png" width="100" height="100" />
 
-* Certifications: 
+* # Certifications: 
 
 <img src="https://images.credly.com/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" width="300" height="400" /> <img src="https://images.credly.com/images/131de2f5-03f5-40a7-bcce-f9ae49e3979c/twitter_thumb_201604_CompTIA_Security_2B.png" width="300" height="370" /> 
 
