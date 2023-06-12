@@ -18,10 +18,19 @@ This website contains projects/analysis in various software.
 -----
 # **Splunk Dashboard Creation**
 
-## Below is the SPL quieries i used to create the dashboard. This dashboard is using the "Network Intrusion Detection" dataset from kaggle.com. I created a dashboard that would monitor vulnerable ports, udp traffic, and ... Adding this dashboard to my home screen in splunk to monitor would reduce time during analysis for faster response from higher tier soc's after documentation. 
+## Below is the SPL quieries i used to create the dashboard. This dashboard is using the "Network Intrusion Detection" dataset from kaggle.com. I created a dashboard that would monitor vulnerabilities such as udp traffic, ports 80 and 443. Adding this dashboard to my home screen in splunk to monitor would reduce time for investigation and have faster response time from a higher tier soc. 
 ```
+source="hello_1.csv" "80" | eval Heading="Port 80 Traffic"
+| append [ | search "udp" | eval Heading="UDP Traffic" ]
+| stats count as Count by Heading
+| eventstats sum(Count) as Total
+| eval Count_Percentage=(Count*100/Total)
+| table Heading Count Count_Percentage
 
 ```
+*Below is the Dashboard using the about SPL code.*
+
+<img src="https://i.ibb.co/9GRLtRg/Vulnerabilities-Count-Dashboard-2023-06-11-at-08-25-28-0700-Splunk.png" width="600" height="500" />
 -----
 ## **MonkeyPox Data Tableau Image Creation - 5/6/2022 - 7/7/2022** 
 Using SQL I wrote a few queries that would show the most confirmed cases of monkeypox by country and join two tables together for daily case confirmation analysis. The data was downloaded from Kaggle.com titled "Monkeypox Dataset (Daily Updated)" containing 3 small tables of data. I then copied and pasted the query outcomes from Microsoft SQL Server into Excel and imported into Tableau public to create the visual below. 5/6/2022 - 7/7/2022
