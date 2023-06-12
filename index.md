@@ -30,7 +30,7 @@ source="hello_1.csv" "80" | eval Heading="Port 80 Traffic"
 ```
 *Below is the Dashboard using the about SPL code.*
 
-<img src="https://i.ibb.co/9GRLtRg/Vulnerabilities-Count-Dashboard-2023-06-11-at-08-25-28-0700-Splunk.png" width="600" height="500" />
+<img src="https://i.ibb.co/KKc0KGR/Vulnerabilities-Count-Dashboard-2023-06-11-at-08-30-35-0700-Splunk.png" width="1000" height="800" />
 -----
 ## **MonkeyPox Data Tableau Image Creation - 5/6/2022 - 7/7/2022** 
 Using SQL I wrote a few queries that would show the most confirmed cases of monkeypox by country and join two tables together for daily case confirmation analysis. The data was downloaded from Kaggle.com titled "Monkeypox Dataset (Daily Updated)" containing 3 small tables of data. I then copied and pasted the query outcomes from Microsoft SQL Server into Excel and imported into Tableau public to create the visual below. 5/6/2022 - 7/7/2022
