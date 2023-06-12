@@ -18,7 +18,7 @@ This website contains projects/analysis in various software.
 -----
 # **Splunk Dashboard Creation**
 
-## Below is the SPL quieries i used to create the dashboard. This dashboard is using the "Network Intrusion Detection" dataset from kaggle.com. I created a dashboard that would monitor vulnerabilities such as udp traffic, ports 80 and 443. Adding this dashboard to my home screen in splunk to monitor would reduce time for investigation and have faster response time from a higher tier soc. 
+## Below is the SPL quieries i used to create the dashboard. This dashboard is using the "Network Intrusion Detection" dataset from kaggle.com. I created a dashboard that would monitor and count vulnerabilities such as udp traffic and port 80. Adding this dashboard to my home screen in splunk to monitor would reduce time for investigation and have faster response time from a higher tier soc. 
 ```
 source="hello_1.csv" "80" | eval Heading="Port 80 Traffic"
 | append [ | search "udp" | eval Heading="UDP Traffic" ]
