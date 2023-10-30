@@ -32,7 +32,7 @@ source="hello_1.csv" "80" | eval Heading="Port 80 Traffic"
 
 <img src="https://i.ibb.co/KKc0KGR/Vulnerabilities-Count-Dashboard-2023-06-11-at-08-30-35-0700-Splunk.png" width="900" height="700" />
 -----
-## **MonkeyPox Data Tableau Image Creation - 5/6/2022 - 7/7/2022** 
+# **MonkeyPox Data Tableau Image Creation - 5/6/2022 - 7/7/2022** 
 Using SQL I wrote a few queries that would show the most confirmed cases of monkeypox by country and join two tables together for daily case confirmation analysis. The data was downloaded from Kaggle.com titled "Monkeypox Dataset (Daily Updated)" containing 3 small tables of data. I then copied and pasted the query outcomes from Microsoft SQL Server into Excel and imported into Tableau public to create the visual below. 5/6/2022 - 7/7/2022
 
 # SQL Queries
