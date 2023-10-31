@@ -27,11 +27,10 @@ This website contains projects/analysis in various software.
    ```
 # 2. The terminal will show us something similar to:
 
+<a href="https://ibb.co/j8ZPqS6"><img src="https://i.ibb.co/Mg5xKm2/Capturetg.png" alt="Capturetg" border="0"></a>
 
-<img src="https://ibb.co/j8ZPqS6" width="600" height="500" />
+# 3. The wscapture file is created and we can now open and better analyze the traffic in wireshark. Symbols, protocol, and destination information can be studied in wireshark to triage tickets and/or for research. 
 
-# 3. The wscapture file is created and we can now open and better analyze the traffic in wireshark. Symbols, protocol, and destination information can be studied in wireshark to triage tickets and/or
-for research. 
 -----
 # **Splunk Dashboard Creation**
 
