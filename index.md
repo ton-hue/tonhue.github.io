@@ -14,7 +14,24 @@ This website contains projects/analysis in various software.
 * # Certifications: 
 
 <img src="https://images.credly.com/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" width="300" height="400" /> <img src="https://images.credly.com/images/131de2f5-03f5-40a7-bcce-f9ae49e3979c/twitter_thumb_201604_CompTIA_Security_2B.png" width="300" height="370" /> 
+-----
+## **Preparing Network Traffic For Wireshark Using TCPDump**
 
+# 1. The first step is to create a shell for the live capture and decide how many packets we will capture for Wireshark. We will use analyze 25 packets from a sample website called skyroute66.
+   When writing the shell script we will use sudo for special permission, and lower case -c followed by 25 for the count of packets being captured. The [-##XXtttt] command will allow our capture to
+   be organized by column for a better analysis experience. Lastly, we will use the write command -w followed by the file name we want to call it. We can call the pcap file wscapture. The shell script will
+   look like:
+
+   ```
+    sudo tcpdump -XXtttt host skyroute66.com -c 25 -w wscapture.cpap
+   ```
+# 2. The terminal will show us something similar to:
+
+
+<img src="https://ibb.co/j8ZPqS6" width="600" height="500" />
+
+# 3. The wscapture file is created and we can now open and better analyze the traffic in wireshark. Symbols, protocol, and destination information can be studied in wireshark to triage tickets and/or
+for research. 
 -----
 # **Splunk Dashboard Creation**
 
