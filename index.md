@@ -13,7 +13,8 @@ This website contains projects/analysis in various software.
 
 * # Certifications: 
 
-<img src="https://images.credly.com/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" width="300" height="400" /> <img src="https://images.credly.com/images/131de2f5-03f5-40a7-bcce-f9ae49e3979c/twitter_thumb_201604_CompTIA_Security_2B.png" width="300" height="370" /> 
+<img src="https://images.credly.com/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" width="300" height="400" /> 
+
 -----
 ## **Preparing Network Traffic For Wireshark Using TCPDump**
 
