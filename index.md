@@ -16,38 +16,7 @@ This website contains projects/analysis in various software.
 <img src="https://images.credly.com/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" width="300" height="400" /> 
 
 -----
-## **Preparing Network Traffic For Wireshark Using TCPDump**
 
-# 1. The first step is to create a shell for the live capture and decide how many packets we will capture for Wireshark. We will use analyze 25 packets from a sample website called skyroute66.
-   When writing the shell script we will use sudo for special permission, and lower case -c followed by 25 for the count of packets being captured. The [-##XXtttt] command will allow our capture to
-   be organized by column for a better analysis experience. Lastly, we will use the write command -w followed by the file name we want to call it. We can call the pcap file wscapture. The shell script will
-   look like:
-
-   ```
-    sudo tcpdump -XXtttt host skyroute66.com -c 25 -w wscapture.cpap
-   ```
-# 2. The terminal will show us something similar to:
-
-<a href="https://ibb.co/j8ZPqS6"><img src="https://i.ibb.co/Mg5xKm2/Capturetg.png" alt="Capturetg" border="0"></a>
-
-# 3. The wscapture file is created and we can now open and better analyze the traffic in wireshark. Symbols, protocol, and destination information can be studied in wireshark to triage tickets and/or for research. 
-
------
-# **Splunk Dashboard Creation**
-
-## Below is the SPL queries i used to create the dashboard. This dashboard is using the "Network Intrusion Detection" dataset from kaggle.com. I created a dashboard that would monitor and count vulnerabilities such as udp traffic and port 80. Adding this dashboard to my home screen in splunk to monitor would reduce time for investigation and have faster response time from a higher tier soc. 
-```
-source="hello_1.csv" "80" | eval Heading="Port 80 Traffic"
-| append [ | search "udp" | eval Heading="UDP Traffic" ]
-| stats count as Count by Heading
-| eventstats sum(Count) as Total
-| eval Count_Percentage=(Count*100/Total)
-| table Heading Count Count_Percentage
-
-```
-**Below is the Dashboard PNG using the above SPL code.**
-
-<img src="https://i.ibb.co/KKc0KGR/Vulnerabilities-Count-Dashboard-2023-06-11-at-08-30-35-0700-Splunk.png" width="900" height="700" />
 -----
 
 ## **MonkeyPox Data Tableau Image Creation - 5/6/2022 - 7/7/2022** 
